@@ -2,10 +2,10 @@
 Library for simple objects in OpenGL for Lazarus 1.0.10
 
 # Features
-Setup - Setting up the OpenGLControl. <br />
-MakeSquare - Create a square of one color by declaring width, height and layer. <br />
-MakeCube - Create a cube of one color by declaring width, height, and depth. <br />
-MakePyramid - Create a pyramid of one color by declaring coordinate maxima - will be changed soon.
+<b>Setup</b> - Setting up the OpenGLControl. <br />
+<b>MakeSquare</b> - Create a square of one color by declaring width, height and layer. <br />
+<b>MakeCube</b> - Create a cube of one color by declaring width, height, and depth. <br />
+<b>MakePyramid</b> - Create a pyramid of one color by declaring coordinate maxima - will be changed soon.
 
 # How to use LOpLib
 <b>If you want to use this library in your projects, please credit me.</b>
