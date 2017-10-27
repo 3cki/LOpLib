@@ -1,5 +1,5 @@
 # LOpLib
-Library for simple objects in OpenGL for Lazarus 1.0.10
+Library for simple objects in OpenGL for Lazarus.
 
 # Features
 <b>Setup</b> - Setting up the OpenGLControl. <br />
